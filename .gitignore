@@ -29,3 +29,6 @@ sitemap.xml.gz
 # Misc
 *.log
 .DS_Store
+
+/deploy
+Capfile
